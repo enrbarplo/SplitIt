@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408345873367",
+    "project_id": "splitit-52793",
+    "storage_bucket": "splitit-52793.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408345873367:android:5023dd5a95064658845992",
+        "android_client_info": {
+          "package_name": "com.example.splitit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408345873367-407j6i2rc971l350ov5llbbrgb1boqeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splitit",
+            "certificate_hash": "48bbee2e7de9dd0be611df8d2046d0e6d19f881f"
+          }
+        },
+        {
+          "client_id": "408345873367-d6hqkaksflhtnju14alsig1hanou45oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTBJ3Ol058fu1bgL35jN0EmRUcTEiDzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408345873367-d6hqkaksflhtnju14alsig1hanou45oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
